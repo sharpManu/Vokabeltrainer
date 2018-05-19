@@ -2,7 +2,7 @@
 Our first schoolbased project
 
 Team:
-Amer M. & Manuel D.
+Amer M. & Manu D.
 
 It's not optimized nor completly finished yet.
 
